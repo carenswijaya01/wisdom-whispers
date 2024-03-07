@@ -4,6 +4,10 @@
   "description": "A mystical package that provides random words of wisdom.",
   "main": "index.js",
   "type": "module",
+  "homepage": "https://github.com/carenswijaya01/wisdom-whispers#readme",
+  "repository": {
+    "url": "https://github.com/carenswijaya01/wisdom-whispers.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
