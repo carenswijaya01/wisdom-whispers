@@ -1,0 +1,20 @@
+{
+  "name": "wisdom-whispers",
+  "version": "1.0.0",
+  "description": "A mystical package that provides random words of wisdom.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quotes",
+    "wisdom",
+    "generator"
+  ],
+  "author": "carenswijaya01",
+  "license": "MIT",
+  "dependencies": {
+    "popular-quotes": "^1.0.9"
+  }
+}
